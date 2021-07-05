@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = aymeric.maille@laposte.net
+	name = aymeric maille
